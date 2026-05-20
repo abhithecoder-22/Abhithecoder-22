@@ -12,9 +12,9 @@
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0d1117&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=0d1117&labelColor=1a1f2e)](https://github.com/YOUR_GITHUB_USERNAME?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=0d1117&labelColor=1a1f2e)](https://github.com/YOUR_GITHUB_USERNAME?tab=stars)
+[![Profile Views](https://komarev.com/ghpvc/?username=Abhithecoder-22&label=Profile%20Views&color=0d1117&style=for-the-badge)](https://github.com/Abhithecoder-22)
+[![GitHub followers](https://img.shields.io/github/followers/Abhithecoder-22?style=for-the-badge&logo=github&color=0d1117&labelColor=1a1f2e)](https://github.com/Abhithecoder-22?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Abhithecoder-22?style=for-the-badge&logo=github&color=0d1117&labelColor=1a1f2e)](https://github.com/Abhithecoder-22?tab=stars)
 
 <br/>
 
@@ -24,10 +24,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0F?style=for-the-badge&logo=google-chrome&logoColor=00D4FF)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=00D4FF)](mailto:YOUR_EMAIL)
-[![Twitter](https://img.shields.io/badge/Twitter-0A0A0F?style=for-the-badge&logo=x&logoColor=00D4FF)](YOUR_TWITTER_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0F?style=for-the-badge&logo=google-chrome&logoColor=00D4FF)](https://abhi-portfolio-ashen.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://www.linkedin.com/in/abhijeet-singh-88a3ba220/)
+[![Email](https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=00D4FF)](mailto:abhijeet02022002@gmail.com)
 
 <br/>
 
@@ -162,7 +161,7 @@ export default abhijeet;
 
 ### ERP System
 
-[![ERP](https://img.shields.io/badge/Enterprise-ERP-00D4FF?style=for-the-badge&labelColor=0d1117)](https://github.com/YOUR_GITHUB_USERNAME)
+[![ERP](https://img.shields.io/badge/Enterprise-ERP-00D4FF?style=for-the-badge&labelColor=0d1117)](https://github.com/Abhithecoder-22)
 
 Production-grade **organization management** platform with hierarchical access control and operational analytics.
 
@@ -178,7 +177,7 @@ Production-grade **organization management** platform with hierarchical access c
 
 ### Multi-Tenant SaaS
 
-[![SaaS](https://img.shields.io/badge/Architecture-Multi--Tenant-7C3AED?style=for-the-badge&labelColor=0d1117)](https://github.com/YOUR_GITHUB_USERNAME)
+[![SaaS](https://img.shields.io/badge/Architecture-Multi--Tenant-7C3AED?style=for-the-badge&labelColor=0d1117)](https://github.com/Abhithecoder-22)
 
 **Dockerized microservices** SaaS foundation built for horizontal scale and tenant isolation.
 
@@ -246,7 +245,7 @@ Production-grade **organization management** platform with hierarchical access c
 
 ### MeetHive — AI Meetings
 
-[![MeetHive](https://img.shields.io/badge/AI-Meetings-7C3AED?style=for-the-badge&labelColor=0d1117)](https://github.com/YOUR_GITHUB_USERNAME)
+[![MeetHive](https://img.shields.io/badge/AI-Meetings-7C3AED?style=for-the-badge&labelColor=0d1117)](https://github.com/Abhithecoder-22)
 
 **Meeting intelligence** — transcription, RAG summaries, and org-level management.
 
@@ -275,26 +274,26 @@ Production-grade **organization management** platform with hierarchical access c
 
 ### Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=7C3AED&text_color=c9d1d9&border_radius=10&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&border_radius=10&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhithecoder-22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=7C3AED&text_color=c9d1d9&border_radius=10&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhithecoder-22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&border_radius=10&langs_count=8"/>
 
 <br/>
 
 ### Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a1f2e&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=c9d1d9&dates=8b949e&border_radius=10"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhithecoder-22&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a1f2e&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=c9d1d9&dates=8b949e&border_radius=10"/>
 
 <br/>
 
 ### Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Abhithecoder-22&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
 
 <br/>
 
 ### Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00D4FF&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhithecoder-22&bg_color=0d1117&color=00D4FF&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Abhithecoder-22)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&section=footer&reversal=true" width="60%"/>
 
@@ -310,11 +309,10 @@ I'm open to **full-time roles**, **contract work**, and **technical collaboratio
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-@YOUR_GITHUB_USERNAME-0A0A0F?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0A0F?style=for-the-badge&logo=google-chrome&logoColor=00D4FF)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-0A0A0F?style=for-the-badge&logo=gmail&logoColor=00D4FF)](mailto:YOUR_EMAIL)
-[![Twitter](https://img.shields.io/badge/Twitter-@YOUR_HANDLE-0A0A0F?style=for-the-badge&logo=x&logoColor=00D4FF)](YOUR_TWITTER_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-@Abhithecoder-22-0A0A0F?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/Abhithecoder-22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://www.linkedin.com/in/abhijeet-singh-88a3ba220/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0A0F?style=for-the-badge&logo=google-chrome&logoColor=00D4FF)](https://abhi-portfolio-ashen.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-0A0A0F?style=for-the-badge&logo=gmail&logoColor=00D4FF)](mailto:abhijeet02022002@gmail.com)
 
 </div>
 
