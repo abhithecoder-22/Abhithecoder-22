@@ -50,8 +50,10 @@ I design and deliver **end-to-end software systems** — from React/Next.js fron
 | Section | Jump |
 |:--------|:-----|
 | About | [About Me](#about-me) |
+| Services | [Services I Offer](#services-i-offer) |
 | Stack | [Tech Stack](#tech-stack) |
 | AI | [AI & Architecture](#ai--architecture-expertise) |
+| Focus | [Engineering Focus](#engineering-focus) |
 | Projects | [Featured Projects](#featured-projects) |
 | Stats | [GitHub Analytics](#github-analytics) |
 | Contact | [Connect](#connect-with-me) |
@@ -66,7 +68,7 @@ I design and deliver **end-to-end software systems** — from React/Next.js fron
 const abhijeet = {
   name: "Abhijeet Singh",
   role: "Full Stack & AWS Engineer",
-  experience: "2+ years",
+  experience: "5+ years",
   location: "India",
   focus: [
     "Scalable SaaS & multi-tenant systems",
@@ -80,6 +82,10 @@ const abhijeet = {
     "Enterprise ERP & operational systems",
   ],
   principles: ["Ship fast, architect right", "Observability over guesswork", "Security by default"],
+  services: ["Web & mobile development", "AWS architecture", "AI automation", "SaaS & microservices"],
+  portfolio: "https://abhi-portfolio-ashen.vercel.app/",
+  github: "https://github.com/Abhithecoder-22",
+  email: "abhijeet02022002@gmail.com",
   askMeAbout: ["System design", "RAG pipelines", "NestJS/Next.js stacks", "Kafka & async jobs"],
   funFact: "I turn complex business workflows into maintainable, testable code paths.",
 };
@@ -136,6 +142,42 @@ export default abhijeet;
 
 ---
 
+## Services I Offer
+
+<div align="center">
+
+**Available for freelance, contract, and long-term engineering engagements.**
+
+</div>
+
+| Service | What I deliver | Typical stack |
+|:--------|:---------------|:--------------|
+| **Web Development** | Production-ready SPAs, dashboards, admin panels, and marketing sites with performance-first UX | React, Next.js, TypeScript, Redux, Tailwind |
+| **Mobile & Cross-Platform** | Responsive web apps, PWA-ready experiences, and mobile-optimized product flows integrated with your backend | React, Next.js, REST/GraphQL APIs, Firebase |
+| **Backend & APIs** | Secure REST/GraphQL services, auth layers, business logic, and third-party integrations | Node.js, NestJS, Express, Django, Python |
+| **AWS & Cloud Architecture** | Scalable cloud design — compute, storage, networking, and cost-aware deployments | AWS (EC2, S3, Transcribe), Docker, Nginx, Linux |
+| **AI & Intelligent Systems** | RAG pipelines, LLM integrations, speech-to-text, workflow automation, and AI SaaS features | OpenAI, Mistral, MCP, async workers |
+| **DevOps & Infrastructure** | Containerization, CI-ready setups, caching, queues, and production hardening | Docker, Redis, Kafka, BullMQ, Nginx |
+| **System Architecture** | Multi-tenant SaaS, microservices, event-driven design, API gateways, and RBAC platforms | Kafka, Redis Streams, Prisma, PostgreSQL |
+
+<br/>
+
+<details>
+<summary><b>💼 Engagement types</b></summary>
+
+| Type | Best for |
+|:-----|:---------|
+| **MVP → Production** | Startups validating product-market fit with a solid technical foundation |
+| **Scale-up & refactor** | Existing apps needing performance, structure, or cloud migration |
+| **AI feature integration** | Products adding transcription, summarization, RAG, or agent workflows |
+| **Dedicated engineering** | Teams needing a full-stack + AWS engineer on sprint-based delivery |
+
+**Let's discuss your project →** [abhijeet02022002@gmail.com](mailto:abhijeet02022002@gmail.com) · [Portfolio](https://abhi-portfolio-ashen.vercel.app/)
+
+</details>
+
+---
+
 ## AI & Architecture Expertise
 
 | Domain | Capabilities | Production context |
@@ -151,7 +193,48 @@ export default abhijeet;
 
 ---
 
+## Engineering Focus
+
+<div align="center">
+
+| Pillar | Description |
+|:-------|:------------|
+| **Reliability** | Fault-tolerant APIs, queue-backed async work, and caching strategies that reduce load under peak traffic |
+| **Security** | RBAC, tenant isolation, secure auth flows, and healthcare-grade data handling where required |
+| **Scalability** | Horizontal-ready services, stateless backends, and cloud-native patterns on AWS |
+| **Developer experience** | Typed codebases (TypeScript), clear module boundaries, and maintainable service contracts |
+| **AI in production** | Practical LLM usage — not demos — with observability, fallbacks, and cost-aware design |
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>⚙️ How I approach builds</b></summary>
+
+```mermaid
+flowchart LR
+    A[Requirements] --> B[Architecture]
+    B --> C[API & Data Layer]
+    C --> D[Frontend / UX]
+    D --> E[Cloud & DevOps]
+    E --> F[AI / Automation]
+    F --> G[Monitor & Iterate]
+```
+
+1. **Discovery** — Map roles, workflows, and non-functional needs (scale, compliance, latency).
+2. **Architecture** — Choose monolith vs microservices, sync vs async, and data boundaries early.
+3. **Build** — Iterative delivery with testable APIs and component-driven frontends.
+4. **Deploy** — Dockerized services, AWS resources, Redis/Kafka where throughput demands it.
+5. **Enhance** — Analytics, AI features, and performance tuning based on real usage.
+
+</details>
+
+---
+
 ## Featured Projects
+
+End-to-end products I've architected and built — spanning **enterprise ops**, **SaaS**, **healthcare AI**, and **marketplace scale**.
 
 <div align="center">
 
@@ -163,14 +246,18 @@ export default abhijeet;
 
 [![ERP](https://img.shields.io/badge/Enterprise-ERP-00D4FF?style=for-the-badge&labelColor=0d1117)](https://github.com/Abhithecoder-22)
 
-Production-grade **organization management** platform with hierarchical access control and operational analytics.
+**Unified operations platform** for schools and organizations — replacing fragmented spreadsheets with a single source of truth for attendance, scheduling, and admin workflows.
+
+Built a **two-level RBAC** model so super-admins, org admins, and staff each see only what they need. **QR-based attendance** cuts manual entry; **AI timetable generation** reduces planning overhead. Role-specific dashboards surface analytics for leadership without cluttering day-to-day screens.
 
 | Capability | Detail |
 |:-----------|:-------|
-| Security | Two-level **RBAC** |
-| Operations | **QR attendance**, org management |
-| AI | **AI timetable generation** |
-| UX | Multi-role dashboards & analytics |
+| Security | Two-level **RBAC**, org-scoped data |
+| Operations | **QR attendance**, org & branch management |
+| AI | **AI timetable generation** from constraints |
+| UX | Admin, teacher & student dashboards + analytics |
+
+`React` `Node.js` `PostgreSQL` `Redis` `RBAC` `AI APIs`
 
 </td>
 <td width="50%" valign="top">
@@ -179,14 +266,18 @@ Production-grade **organization management** platform with hierarchical access c
 
 [![SaaS](https://img.shields.io/badge/Architecture-Multi--Tenant-7C3AED?style=for-the-badge&labelColor=0d1117)](https://github.com/Abhithecoder-22)
 
-**Dockerized microservices** SaaS foundation built for horizontal scale and tenant isolation.
+**Cloud-native SaaS backbone** designed for multiple customers on shared infrastructure without data leakage — the pattern behind scalable B2B products.
+
+Services run in **Docker** with a central **API gateway**, **centralized auth**, and **Redis** for session/cache hot paths. Heavy work (emails, reports, webhooks) flows through **async workers** so API latency stays predictable under load.
 
 | Capability | Detail |
 |:-----------|:-------|
-| Infra | Microservices + **API gateway** |
-| Auth | Centralized authentication |
-| Performance | **Redis** caching layer |
-| Processing | Async job pipelines |
+| Infra | **Microservices**, API gateway, Docker |
+| Auth | Centralized identity across tenants |
+| Performance | **Redis** caching & rate-friendly reads |
+| Processing | Queue-backed async pipelines |
+
+`Docker` `NestJS` `Redis` `Kafka` `PostgreSQL` `API Gateway`
 
 </td>
 </tr>
@@ -195,32 +286,40 @@ Production-grade **organization management** platform with hierarchical access c
 
 ### Academun — LMS Platform
 
-[![Academun](https://img.shields.io/badge/Live-academun.com-00D4FF?style=for-the-badge&labelColor=0d1117)](https://academun.com/)
+[![Academun](https://img.shields.io/badge/Live-academun.com-00D4FF?style=for-the-badge&labelColor=0d1117)](https://academun.com/) [![Website](https://img.shields.io/badge/↗_Visit_Site-0d1117?style=flat-square)](https://academun.com/)
 
-**Learning & operational workflow** platform for institutions — courses, roles, and automation in one stack.
+**Institution-grade LMS** connecting learning delivery with day-to-day operations — not just course pages, but the workflows schools actually run on.
+
+Students and instructors get dedicated dashboards; admins manage courses, cohorts, and permissions through **role-based access**. The frontend is fully responsive; the backend is structured for growing institutions and automated operational tasks.
 
 | Capability | Detail |
 |:-----------|:-------|
-| Core | LMS workflows, course management |
-| Users | Student & instructor dashboards |
-| Access | Role-based permissions |
-| Stack | Responsive frontend, scalable backend |
+| Core | Course lifecycle, content & enrollment flows |
+| Users | Student & instructor portals |
+| Access | Granular **RBAC** per role |
+| Ops | Workflow automation for institutional tasks |
+
+`Next.js` `React` `Node.js` `PostgreSQL` `RBAC`
 
 </td>
 <td width="50%" valign="top">
 
 ### Bahja — Booking Platform
 
-[![Bahja](https://img.shields.io/badge/Staging-bahja.co-7C3AED?style=for-the-badge&labelColor=0d1117)](https://www.staging.bahja.co/)
+[![Bahja](https://img.shields.io/badge/Staging-bahja.co-7C3AED?style=for-the-badge&labelColor=0d1117)](https://www.staging.bahja.co/) [![Website](https://img.shields.io/badge/↗_Visit_Site-0d1117?style=flat-square)](https://www.staging.bahja.co/)
 
-**Marketplace & booking** system coordinating vendors, scheduling, and payments at scale.
+**Service marketplace & booking engine** for high-volume scheduling — vendors, customers, and payments coordinated in one platform.
+
+Handles **dynamic availability**, vendor onboarding, and booking state machines at scale. Frontend and backend stay in sync for real-time slot updates, operational dashboards, and payment-adjacent flows without breaking user trust.
 
 | Capability | Detail |
 |:-----------|:-------|
-| Domain | Large-scale booking workflows |
-| Architecture | Service marketplace patterns |
-| Systems | Dynamic scheduling, vendor management |
-| Flows | Payment & operational coordination |
+| Domain | End-to-end booking & service discovery |
+| Architecture | Marketplace + vendor tenancy patterns |
+| Systems | Scheduling, calendars, vendor CRM-style tools |
+| Flows | Payments, notifications, operational admin |
+
+`React` `Node.js` `MongoDB` `Redis` `WebSockets`
 
 </td>
 </tr>
@@ -229,16 +328,20 @@ Production-grade **organization management** platform with hierarchical access c
 
 ### ChatRx — AI Telemedicine
 
-[![ChatRx](https://img.shields.io/badge/Live-chatrx.md-00D4FF?style=for-the-badge&labelColor=0d1117)](https://www.chatrx.md/)
+[![ChatRx](https://img.shields.io/badge/Live-chatrx.md-00D4FF?style=for-the-badge&labelColor=0d1117)](https://www.chatrx.md/) [![Website](https://img.shields.io/badge/↗_Visit_Site-0d1117?style=flat-square)](https://www.chatrx.md/)
 
-**AI-assisted healthcare** platform combining physician oversight with secure patient workflows.
+**AI-augmented telemedicine** where automation supports clinicians — not replaces them — through secure, real-time patient interactions.
+
+Patients get guided intake and AI-assisted flows; physicians retain oversight on consultations. Architecture prioritizes **secure patient records**, **real-time messaging**, and infrastructure that can grow with healthcare compliance needs.
 
 | Capability | Detail |
 |:-----------|:-------|
-| AI | Telemedicine & consultation assistance |
-| Clinical | Physician-supported interactions |
-| Data | Secure patient management |
-| Realtime | Communication architecture at scale |
+| AI | Assisted intake & consultation support |
+| Clinical | Physician-in-the-loop workflows |
+| Data | Encrypted, role-scoped patient records |
+| Realtime | Low-latency chat & session handling |
+
+`Next.js` `Node.js` `OpenAI` `WebSockets` `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
@@ -247,20 +350,40 @@ Production-grade **organization management** platform with hierarchical access c
 
 [![MeetHive](https://img.shields.io/badge/AI-Meetings-7C3AED?style=for-the-badge&labelColor=0d1117)](https://github.com/Abhithecoder-22)
 
-**Meeting intelligence** — transcription, RAG summaries, and org-level management.
+**Meeting intelligence platform** that turns conversations into searchable knowledge — record, transcribe, summarize, and retrieve context per organization.
+
+**Speech-to-text** feeds **RAG pipelines** for accurate summaries and Q&A over past meetings. **Mistral & OpenAI** power generation layers; org-level admin controls who sees what. Built for teams that live in meetings but need outcomes, not just recordings.
 
 | Capability | Detail |
 |:-----------|:-------|
-| AI | Summaries, **STT**, RAG workflows |
-| Models | Mistral & OpenAI integrations |
-| Ops | Organization management |
-| Pipeline | End-to-end transcription workflows |
+| AI | **STT**, summaries, RAG over meeting corpuses |
+| Models | **Mistral** & **OpenAI** with fallback paths |
+| Ops | Multi-org admin & member management |
+| Pipeline | Upload → transcribe → embed → query |
+
+`React` `Django` `AWS Transcribe` `S3` `RAG` `Mistral` `OpenAI`
 
 </td>
 </tr>
 </table>
 
 </div>
+
+<br/>
+
+<details>
+<summary><b>🚀 More builds on my portfolio</b></summary>
+
+Explore additional work — ride-hailing, social platforms, transcription SaaS, and e-commerce — on my [**portfolio**](https://abhi-portfolio-ashen.vercel.app/).
+
+| Project | Highlight |
+|:--------|:----------|
+| **Drivo** | Real-time ride tracking with WebSockets & maps |
+| **K.I.M.** | Enterprise STT & synthesis with AWS Transcribe |
+| **Twaddle** | Social feed platform with GraphQL & Prisma |
+| **Burger Wala** | Food ordering with Razorpay payments |
+
+</details>
 
 ---
 
@@ -305,7 +428,9 @@ Production-grade **organization management** platform with hierarchical access c
 
 <div align="center">
 
-I'm open to **full-time roles**, **contract work**, and **technical collaborations** on SaaS, AI platforms, and high-scale backends.
+I'm open to **full-time roles**, **freelance contracts**, and **technical collaborations** — web & mobile products, **AWS architecture**, AI platforms, and high-scale backends.
+
+[![Hire Me](https://img.shields.io/badge/Hire_Me-Let's_Build-00D4FF?style=for-the-badge&labelColor=0d1117)](mailto:abhijeet02022002@gmail.com)
 
 <br/>
 
