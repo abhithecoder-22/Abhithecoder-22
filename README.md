@@ -304,9 +304,9 @@ Students and instructors get dedicated dashboards; admins manage courses, cohort
 </td>
 <td width="50%" valign="top">
 
-### Bahja — Booking Platform
+### Event Marketplace — Booking Platform
 
-[![Bahja](https://img.shields.io/badge/Staging-bahja.co-7C3AED?style=for-the-badge&labelColor=0d1117)](https://www.staging.bahja.co/) [![Website](https://img.shields.io/badge/↗_Visit_Site-0d1117?style=flat-square)](https://www.staging.bahja.co/)
+[![Event](https://img.shields.io/badge/Staging-bahja.co-7C3AED?style=for-the-badge&labelColor=0d1117)](https://staging.bahja.co/) [![Website](https://img.shields.io/badge/↗_Visit_Site-0d1117?style=flat-square)](https://staging.bahja.co/)
 
 **Service marketplace & booking engine** for high-volume scheduling — vendors, customers, and payments coordinated in one platform.
 
